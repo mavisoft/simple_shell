@@ -320,7 +320,7 @@ $
 
 ## Authors ##
 
-👤 **Obed Ehoneah**
+👤 **OBED EHONEAH**
 
 - GitHub: [@ehoneahobed](https://github.com/ehoneahobed)
 - Twitter: [@ehoneahobed](https://twitter.com/ehoneahobed)
