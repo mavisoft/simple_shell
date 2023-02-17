@@ -320,16 +320,8 @@ $
 
 ## Authors ##
 
-👤 **OBED EHONEAH**
+👤 **MAVIS IYOHA**
 
-- GitHub: [@ehoneahobed](https://github.com/ehoneahobed)
-- Twitter: [@ehoneahobed](https://twitter.com/ehoneahobed)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/ehoneahobed)
-- Blog: [Personal Blog](https://blog.ehoneahobed.com)
-
-👤 **JUSTICE MENSAH BLAY MEWUBE**
-
-- GitHub: [@JUSTICEMENSAH-ALX](https://github.com/JUSTICEMENSAH-ALX)
-- LinkedIn: [LinkedIn](linkedin.com/in/mensah-blay-justice)
-- Twitter: [@JUSTICEMBLAY](https://twitter.com/justicemensahblaymewube)
-
+- GitHub: [@mavisoft](https://github.com/mavisoft)
+- Twitter: [@mavis_iyoha](https://twitter.com/mavis_iyoha)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/iyoha-mavis-osha-b66a8587)
